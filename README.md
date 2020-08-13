@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Kyra-Ha/Kyra-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on making a chat app to learn how to use a SQL database.
 - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with beautifying my code!
