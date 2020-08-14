@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kyra. I'm an aspiring, self-taught front-end web developer/designer. 
+### Hi there 👋 I'm Kyra. I'm an aspiring front-end web developer/designer. 
 
 - 🔭 I’m currently working on making a chat app to learn how to use a SQL database.
 - 🌱 I’m currently learning React.
